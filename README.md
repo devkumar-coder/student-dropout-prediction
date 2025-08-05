@@ -6,7 +6,6 @@ Data Cleanind EDA: Cleaned with EDA
 
 Technical Dissertation 1.ipynb: Main Jupyter Notebook with full pipeline
 
-/data/: Folder where raw datasets (CSV files) should be placed
 
 # How to Use
 ## Clone the repository
